@@ -14,19 +14,19 @@ We will begin with an initial 15 min phone call to determine if we are a good fi
 I will ask you to complete information online that will help me learn about your child, your family and the environment in which the problem behavior occurs. 
 
 ##### INTAKE MEETING 
-I will come and meet you at your home, for 1 hour, in your natural environment. We will review the forms together and discuss the behavior that you are seeking help with. This will help me deepen my understanding of the processes that trigger, control, and maintain the behavior. 
+We will meet at your home to review the forms together and discuss the behavior that you are seeking help with. This will help me deepen my understanding of the processes that trigger, control, and maintain the behavior.
 
 ##### EVALUATION
-Observation is a key component in understanding behavior. It is especially helpful if I can see the behavior on several different occasions. I will come and observe your child at the time and place that is most relevant and most likely for the behavior to occur. A second observation may be required. I may also ask that you share some video recordings with me through a secure link, so that I can observe the behavior further.
+Observation is a key component to understanding behavior. It is especially helpful if I can see the behavior on several different occasions. I will come and observe your child at the time and place that is most relevant and most likely for the behavior to occur. I may also ask that you share some video recordings with me through a secure link, so that I can observe the behavior further.
 
 ##### TREATMENT PLAN
-Using the information I have gathered, I will develop a written plan. We will review the behavior plan together. Before we proceed, it will be important that you communicate any concerns or barriers  to implementation that you may foresee. 
+Using the information I have gathered, I will develop a written plan. We will review the behavior plan together and ensure that we are in agreement about how to proceed as well as work out any concerns or barriers  to implementation that you may foresee. 
 
 ##### TREATMENT 
-Upon your acceptance of the plan, we will work together to implement it. I will model the intervention and then train you to practice with your child. We will most likely start with weekly sessions, in person or via telehealth, to practice, tweak and determine if the intervention is working. Once we have a good grasp on the behavior, we can decrease the frequency of our sessions and move to the next phase.
+We will work together to implement the behavior treatment plan. I will model the intervention and then help you to practice with your child. We will most likely start with **weekly sessions**, in person or via telehealth, to practice, tweak and determine if the intervention is working. Once we have a good grasp on the behavior, we can decrease the frequency of our sessions.
 
 ##### FOLLOW-UP
-I will continue to check-in to make sure that the behavior does not slip back to old patterns and at this point, we can either choose to work on something new or decide on a maintenance plan. To achieve the best outcomes, collaborating with other professionals or providers, with your child’s school and with other relevant individuals in your child’s life is recommended. 
+I will continue to check-in to make sure that the behavior does not slip back to old patterns and at this point, we can either choose to work on something new or decide on a maintenance plan. To achieve the best outcomes, collaborating with other professionals or providers, with your child’s school and with other relevant individuals in your child’s life is recommended.
 {{< /details >}}
 
 {{< details "What is Self-Directed Learning (SDL) / Self-Directed Education (SDE)?" >}}
@@ -34,11 +34,11 @@ It simply means focusing on your child’s interests and on the way that they le
 {{< /details >}}
 
 {{< details "What is Applied Behavior Analysis or ABA?" >}}
-**Applied Behavior Analysis** (ABA) is the science of human behavior. Its methods are empirically validated and it is regarded as a long-standing method for changing human behavior. It involves the principles of learning theory and its main focus is to increase desired behaviors, generalize learned behaviors or reduce undesirable behaviors. Applied behavior analysis has a longstanding large body of research supporting its efficacy especially as it relates to the treatment of Autism Spectrum Disorder but it can also be applied to other populations and to almost any behavior.
+**Applied Behavior Analysis** (**ABA**) is the science of human behavior. Its methods are empirically validated and it is regarded as a long-standing method for changing human behavior.It involves the principles of learning theory and its main focus is to increase desired behaviors, generalize learned behaviors or reduce undesirable behaviors. Applied behavior analysis has a longstanding large body of research supporting its efficacy especially as it relates to the treatment of Autism Spectrum Disorder but it can also be applied to other populations and to almost any behavior. 
 {{< /details >}}
 
 {{< details "How can these two approaches work together?" >}}
-**Applied Behavior Analysis** (ABA) and **Self-Directed Learning** (SDL) share a love of natural environments. Both place the utmost emphasis on the quality, richness and power of the environment in which a child lives. SDL looks at how you can change the environment to best fit the child and ABA focuses on making changes to what is not working in the child’s environment instead of on the child’s “bad” behavior. 
+**Applied Behavior Analysis** (**ABA**) and **Self-Directed Learning** (**SDL**) share a love of natural environments. Both place the utmost emphasis on the quality, richness and power of the environment in which a child lives. ABA and SDL look at how you can change the environment to best fit the child’s learning style instead of focusing on the child’s “bad” behavior.  
 {{< /details >}}
 
 {{< details "Does behavior change mean changing my child?" >}}
@@ -61,8 +61,8 @@ Absolutely not. On the contrary! My approach focuses on acceptance of every chil
 {{< /details >}}
 
 {{< details "How much does it cost?" >}}
-- $200/ hour for initial intake meeting , observation session, analysis and behavior plan development.
-- $250/week includes: weekly session, review of behavior plan, on-demand support.
+- $200 /hour for initial intake meeting , observation session, analysis and behavior plan development.
+- $250 /week includes: weekly session, review of behavior plan, on-demand support.
 {{< /details >}}
 
 {{< details "Can you bill my insurance directly?" >}}

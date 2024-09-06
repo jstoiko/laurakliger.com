@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "cover/pexels-froken-fokus-28117-127968 copy.jpg"
+header_image: "images/pexels-froken-fokus-28117-127968.jpg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
