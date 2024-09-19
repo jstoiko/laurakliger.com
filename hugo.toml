@@ -48,7 +48,7 @@ publishDir = "docs"
 
     # Show also a language menu item for the current language, if false only
     # show the remaining languages
-    show_current_lang = true
+    show_current_lang = false
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
