@@ -11,7 +11,7 @@ header_menu: true
 We will begin with an initial 15 min phone call to determine if we are a good fit.
 
 ##### INTAKE FORMS
-I will ask you to complete information online that will help me learn about your child, your family and the environment in which the problem behavior occurs. 
+I will ask you to answer some intake questions that will help me learn about your child, your family and the environment in which the problem behavior occurs. 
 
 ##### INTAKE MEETING 
 We will meet at your home to review the forms together and discuss the behavior that you are seeking help with. This will help me deepen my understanding of the processes that trigger, control, and maintain the behavior.
@@ -42,7 +42,7 @@ It simply means focusing on your child’s interests and on the way that they le
 {{< /details >}}
 
 {{< details "Does behavior change mean changing my child?" >}}
-Absolutely not. On the contrary! My approach focuses on acceptance of every child as they are. This concept is key to moving forward and making changes. Underlying acceptance is the cessation of comparison to other children and seeing and accepting them for where they are in their developmental journey. Behavior is one of the ways in which children communicate. Often, they are communicating that they lack the skills necessary to navigate a situation. Together we will find more functional replacement behaviors and prioritize skill building. 
+Absolutely not. On the contrary! My approach focuses on acceptance of every child as they are. This concept is key to moving forward and making changes. Underlying acceptance is the cessation of comparison to other children and seeing and accepting them for where they are in their developmental journey. Behavior is one of the ways in which children communicate. Often, they are communicating that they lack the skills necessary to navigate a situation. Together we will find functional replacement behaviors and prioritize skill building. 
 {{< /details >}}
 
 {{< details "Can you provide examples of behaviors?" >}}
@@ -62,7 +62,9 @@ Absolutely not. On the contrary! My approach focuses on acceptance of every chil
 
 {{< details "How much does it cost?" >}}
 - $200 /hour for initial intake meeting , observation session, analysis and behavior plan development.
-- $250 /week includes: weekly session, review of behavior plan, on-demand support.
+- $250 /week includes: weekly session, review of behavior plan, continuous support.
+
+I don’t turn anyone away. I enjoy working with socioeconomically diverse families and I am willing to work with you on a sliding fee scale if your family needs it. Please feel comfortable to reach out and inquire.
 {{< /details >}}
 
 {{< details "Can you bill my insurance directly?" >}}
