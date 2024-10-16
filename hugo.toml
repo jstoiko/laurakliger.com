@@ -72,7 +72,7 @@ publishDir = "docs"
 
     [[params.contacts]]
         label = "phone"
-        value = "(510) 679-2782"
+        value = "(510) 679-2782 (call or text)"
         url = "tel:+1 510 679-2782"
         icon = "fa fa-phone"
 
